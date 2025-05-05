@@ -1,0 +1,12 @@
+1. Naïve Bayes Classifier
+2. Simple Linear Regression
+3. Multiple linear regression
+4. Polynomial Regression
+5. Lasso and Ridge Regression
+6. Logistic regression
+7. Artificial Neural Network
+8. K-NN classifier
+9. Decision tree classification
+10. SVM classification
+11. K-means clustering
+12. Hierarchical clustering
